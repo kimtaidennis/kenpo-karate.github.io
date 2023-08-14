@@ -1,4 +1,5 @@
-@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@0,300;0,600;0,700;1,300;1,600;1,700&display=swap');
+
 /*!
 * Start Bootstrap - New Age v6.0.7 (https://startbootstrap.com/theme/new-age)
 * Copyright 2013-2023 Start Bootstrap
@@ -11,7 +12,7 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
 
-  @import url('https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@0,300;0,600;0,700;1,300;1,600;1,700&display=swap');
+ 
 
 :root {
   --bs-blue: #2937f0;
